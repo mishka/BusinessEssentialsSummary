@@ -8,7 +8,7 @@ This repository contains structured summaries of my weekly university classes, h
   - [02 - Maslow’s Hierarchy of Needs](Week%201/02%20-%20Maslow’s%20Hierarchy%20of%20Needs.md)
   - [03 - Differences Between Capital Resources, Human Resources & Natural Resources](Week%201/03%20-%20Differences%20Between%20Capital%20Resources%2C%20Human%20Resources%20%26%20Natural%20Resources.md)
 - [Week 2](Week%202/)
-  - [01 - KH - Week 2 - Marketing](01%20-%20KH%20-%20Week%202%20-%20Marketing.md)
+  - [01 - KH - Week 2 - Marketing](Week%202/01%20-%20KH%20-%20Week%202%20-%20Marketing.md)
   - [02 - How to find your unique selling proposition - BDC (Business Development Bank of Canada)](Week%202/02%20-%20How%20to%20find%20your%20unique%20selling%20proposition%20-%20BDC%20(Business%20Development%20Bank%20of%20Canada).md)
   - [03 - What is Branding - The Branding Journal](Week%202/03%20-%20What%20is%20Branding%20-%20The%20Branding%20Journal.md)
   - [04 - A brief summary of marketing and how it works - CIM (Chartered Institute of Marketing)](Week%202/04%20-%20A%20brief%20summary%20of%20marketing%20and%20how%20it%20works%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)
