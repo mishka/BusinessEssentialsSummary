@@ -1,7 +1,7 @@
 # What Is Branding?
 
 ## **Definition of Branding**
-- **Branding** is the process of assigning meaning to a specific organization, company, product, or service by creating and shaping a brand in consumers' minds. :contentReference[oaicite:0]{index=0}
+- **Branding** is the process of assigning meaning to a specific organization, company, product, or service by creating and shaping a brand in consumers' minds.
 - It involves a strategy designed by organizations to help people quickly identify and experience their brand, providing a reason to choose their products over competitors'.
 
 ## **Purpose of Branding**
