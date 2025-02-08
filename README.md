@@ -1,4 +1,4 @@
-# BusinessEssentialsSummary
+# 2024.25 Business Essentials: Introduction
 This repository contains structured summaries of my weekly university classes, highlighting key points only.
 
 ## Contents
