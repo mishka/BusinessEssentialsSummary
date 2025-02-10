@@ -20,6 +20,16 @@ This repository contains structured summaries of my weekly university classes, h
   - [03 - 4 P’s of Marketing - CFI (Chartered Finance Institute)](Week%203/03%20-%204%20P’s%20of%20Marketing%20-%20CFI%20(Chartered%20Finance%20Institute).md)
   - [04 - The 7Ps of marketing - CIM (Chartered Institute of Marketing)](Week%203/04%20-%20The%207Ps%20of%20marketing%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)
   - [05 - Rejuvenating the Marketing Mix - Harvard Business Review](Week%203/05%20-%20Rejuvenating%20the%20Marketing%20Mix%20-%20Harvard%20Business%20Review.md)
+- [Week 4](Week%204/)
+  - [01 - KH - Week 4 - Presentation Skills](Week%204/01%20-%20KH%20-%20Week%204%20-%20Presentation%20Skills.md)
+  - [02 - Presentation - Academic Skills Kit - Newcastle University](Week%204/02%20-%20Presentation%20-%20Academic%20Skills%20Kit%20-%20Newcastle%20University.md)
+  - [03 - Presentations - Academic Skills - University of Leeds](Week%204/03%20-%20Presentations%20-%20Academic%20Skills%20-%20University%20of%20Leeds.md)
+- [Week 5](Week%205/)
+  - [01 - KH - Week 5 - Sources of Finance - Financial Statements](Week%205/01%20-%20KH%20-%20Week%205%20-%20Sources%20of%20Finance%20-%20Financial%20Statements.md)
+  - [02 - Selecting sources of finance for business - ACCA (Association of Chartered Certified Accountants)](Week%205/02%20-%20Selecting%20sources%20of%20finance%20for%20business%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)
+  - [03 - Choose your funding type - Australian Government - Business](Week%205/03%20-%20Choose%20your%20funding%20type%20-%20Australian%20Government%20-%20Business.md)
+  - [04 - Comparing sources of finance for a small business - Capify](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md)
+  - [05 - Finance vs Accounting - CFI (Corporate Finance Institute)](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md)
 
 ## How to Use
 Navigate to the desired week's folder and open the corresponding Markdown file to view the summary.
