@@ -30,6 +30,10 @@ This repository contains structured summaries of my weekly university classes, h
   - [03 - Choose your funding type - Australian Government - Business](Week%205/03%20-%20Choose%20your%20funding%20type%20-%20Australian%20Government%20-%20Business.md)
   - [04 - Comparing sources of finance for a small business - Capify](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md)
   - [05 - Finance vs Accounting - CFI (Corporate Finance Institute)](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md)
+- [Week 7](Week%207/)
+  - [01 - KH - Week 7 - Analysing the Environment - aims and objectives](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md)
+  - [02 - Purpose, Mission, and Vision Statements - Bain and Company](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md)
+  - [03 - What is a Mission Statement - CFI (Corporate Finance Institute)](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md)
 
 ## How to Use
 Navigate to the desired week's folder and open the corresponding Markdown file to view the summary.
