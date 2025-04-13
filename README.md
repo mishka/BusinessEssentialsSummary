@@ -34,6 +34,22 @@ This repository contains structured summaries of my weekly university classes, h
   - [01 - KH - Week 7 - Analysing the Environment - aims and objectives](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md)
   - [02 - Purpose, Mission, and Vision Statements - Bain and Company](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md)
   - [03 - What is a Mission Statement - CFI (Corporate Finance Institute)](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md)
+- [Week 8](Week%208/)
+  - [01 - KH - Week 8 - Budgeting](Week%208/01%20-%20KH%20-%20Week%208%20-%20Budgeting.md)
+  - [02 - Labour and material variances - AAT (Association of Accounting Technicians)](Week%208/02%20-%20Labour%20and%20material%20variances%20-%20AAT%20(Association%20of%20Accounting%20Technicians).md)
+  - [03 - Rolling Budgets - ACCA (Association of Chartered Certified Accountants)](Week%208/03%20-%20Rolling%20Budgets%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)
+  - [04 - Why cash flow is more important than profit - Barclays Bank](Week%208/04%20-%20Why%20cash%20flow%20is%20more%20important%20than%20profit%20-%20Barclays%20Bank.md)
+  - [05 - Fixed and Variable Costs - CFI (Chartered Finance Institute)](Week%208/05%20-%20Fixed%20and%20Variable%20Costs%20-%20CFI%20(Chartered%20Finance%20Institute).md)
+  - [06 - What is a Budget & Cash Budget - Finance Strategists](Week%208/06%20-%20What%20is%20a%20Budget%20%26%20Cash%20Budget%20-%20Finance%20Strategists.md)
+  - [07 - Budgeting and business planning - Info Entrepreneurs](Week%208/07%20-%20Budgeting%20and%20business%20planning%20-%20Info%20Entrepreneurs.md)
+- [Week 9](Week%209/)
+  - [01 - KH - Week 9 - Supply Chain](Week%209/01%20-%20KH%20-%20Week%209%20-%20Supply%20Chain.md)
+  - [02 - What is supply chain - McKinsey & Company](Week%209/02%20-%20What%20is%20supply%20chain%20-%20McKinsey%20%26%20Company.md)
+- [Week 10](Week%2010)
+  - [01 - KH - Week 10 - Competition - SWOT - Porter’s 5 Forces](Week%2010/01%20-%20KH%20-%20Week%2010%20-%20Competition%20-%20SWOT%20-%20Porter%E2%80%99s%205%20Forces.md)
+  - [02 - SWOT Analysis - CFI (Corporate Finance Institute)](Week%2010/02%20-%20SWOT%20Analysis%20-%20CFI%20(Corporate%20Finance%20Institute).md)
+  - [03 - Porter’s Five Forces Analysis - Harvard Business School - Institute for Strategy and Competitiveness](Week%2010/03%20-%20Porter%E2%80%99s%20Five%20Forces%20Analysis%20-%20Harvard%20Business%20School%20-%20Institute%20for%20Strategy%20and%20Competitiveness.md)
+  - [04 - PESTLE Analysis – Charity Commission for England and Wales](Week%2010/04%20-%20PESTLE%20Analysis%20%E2%80%93%20Charity%20Commission%20for%20England%20and%20Wales.md)
 
 ## How to Use
 Navigate to the desired week's folder and open the corresponding Markdown file to view the summary.
