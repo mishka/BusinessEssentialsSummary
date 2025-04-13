@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Progress](https://img.shields.io/badge/No%20New%20Additions%20Are%20Made-8A2BE2)
 
-This repository contains structured summaries of my weekly university classes, highlighting key points only.
+This repository contains structured summaries of my weekly (foundation year) university classes, highlighting key points only. This is what £16,000 in notes look like. Enjoy..
 
 ---
 
