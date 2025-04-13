@@ -1,55 +1,105 @@
-# 2024.25 Business Essentials: Introduction
+# 📘 2024.25 Business Essentials: Introduction
+
 This repository contains structured summaries of my weekly university classes, highlighting key points only.
 
-## Contents
+---
 
-- [Week 1](Week%201/)
-  - [01 - KH - Week 1 - Types of Business Organisations](Week%201/01%20-%20KH%20-%20Week%201%20-%20Types%20of%20Business%20Organisations.md)
-  - [02 - Maslow’s Hierarchy of Needs](Week%201/02%20-%20Maslow’s%20Hierarchy%20of%20Needs.md)
-  - [03 - Differences Between Capital Resources, Human Resources & Natural Resources](Week%201/03%20-%20Differences%20Between%20Capital%20Resources%2C%20Human%20Resources%20%26%20Natural%20Resources.md)
-- [Week 2](Week%202/)
-  - [01 - KH - Week 2 - Marketing](Week%202/01%20-%20KH%20-%20Week%202%20-%20Marketing.md)
-  - [02 - How to find your unique selling proposition - BDC (Business Development Bank of Canada)](Week%202/02%20-%20How%20to%20find%20your%20unique%20selling%20proposition%20-%20BDC%20(Business%20Development%20Bank%20of%20Canada).md)
-  - [03 - What is Branding - The Branding Journal](Week%202/03%20-%20What%20is%20Branding%20-%20The%20Branding%20Journal.md)
-  - [04 - A brief summary of marketing and how it works - CIM (Chartered Institute of Marketing)](Week%202/04%20-%20A%20brief%20summary%20of%20marketing%20and%20how%20it%20works%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)
-  - [05 - What are the benefits of market segmentation - The British Library](Week%202/05%20-%20What%20are%20the%20benefits%20of%20market%20segmentation%20-%20The%20British%20Library.md)
-  - [06 - Market Segmentation and Targeting - CFI (Chartered Finance Institute)](Week%202/06%20-%20Market%20Segmentation%20and%20Targeting%20-%20CFI%20(Chartered%20Finance%20Institute).md)
-- [Week 3](Week%203/)
-  - [01 - KH - Week 3 - Marketing Mix](Week%203/01%20-%20KH%20-%20Week%203%20-%20Marketing%20Mix.md)
-  - [02 - Why is market research important for new business ideas - The British Library](Week%203/02%20-%20Why%20is%20market%20research%20important%20for%20new%20business%20ideas%20-%20The%20British%20Library.md)
-  - [03 - 4 P’s of Marketing - CFI (Chartered Finance Institute)](Week%203/03%20-%204%20P’s%20of%20Marketing%20-%20CFI%20(Chartered%20Finance%20Institute).md)
-  - [04 - The 7Ps of marketing - CIM (Chartered Institute of Marketing)](Week%203/04%20-%20The%207Ps%20of%20marketing%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)
-  - [05 - Rejuvenating the Marketing Mix - Harvard Business Review](Week%203/05%20-%20Rejuvenating%20the%20Marketing%20Mix%20-%20Harvard%20Business%20Review.md)
-- [Week 4](Week%204/)
-  - [01 - KH - Week 4 - Presentation Skills](Week%204/01%20-%20KH%20-%20Week%204%20-%20Presentation%20Skills.md)
-  - [02 - Presentation - Academic Skills Kit - Newcastle University](Week%204/02%20-%20Presentation%20-%20Academic%20Skills%20Kit%20-%20Newcastle%20University.md)
-  - [03 - Presentations - Academic Skills - University of Leeds](Week%204/03%20-%20Presentations%20-%20Academic%20Skills%20-%20University%20of%20Leeds.md)
-- [Week 5](Week%205/)
-  - [01 - KH - Week 5 - Sources of Finance - Financial Statements](Week%205/01%20-%20KH%20-%20Week%205%20-%20Sources%20of%20Finance%20-%20Financial%20Statements.md)
-  - [02 - Selecting sources of finance for business - ACCA (Association of Chartered Certified Accountants)](Week%205/02%20-%20Selecting%20sources%20of%20finance%20for%20business%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)
-  - [03 - Choose your funding type - Australian Government - Business](Week%205/03%20-%20Choose%20your%20funding%20type%20-%20Australian%20Government%20-%20Business.md)
-  - [04 - Comparing sources of finance for a small business - Capify](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md)
-  - [05 - Finance vs Accounting - CFI (Corporate Finance Institute)](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md)
-- [Week 7](Week%207/)
-  - [01 - KH - Week 7 - Analysing the Environment - aims and objectives](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md)
-  - [02 - Purpose, Mission, and Vision Statements - Bain and Company](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md)
-  - [03 - What is a Mission Statement - CFI (Corporate Finance Institute)](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md)
-- [Week 8](Week%208/)
-  - [01 - KH - Week 8 - Budgeting](Week%208/01%20-%20KH%20-%20Week%208%20-%20Budgeting.md)
-  - [02 - Labour and material variances - AAT (Association of Accounting Technicians)](Week%208/02%20-%20Labour%20and%20material%20variances%20-%20AAT%20(Association%20of%20Accounting%20Technicians).md)
-  - [03 - Rolling Budgets - ACCA (Association of Chartered Certified Accountants)](Week%208/03%20-%20Rolling%20Budgets%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)
-  - [04 - Why cash flow is more important than profit - Barclays Bank](Week%208/04%20-%20Why%20cash%20flow%20is%20more%20important%20than%20profit%20-%20Barclays%20Bank.md)
-  - [05 - Fixed and Variable Costs - CFI (Chartered Finance Institute)](Week%208/05%20-%20Fixed%20and%20Variable%20Costs%20-%20CFI%20(Chartered%20Finance%20Institute).md)
-  - [06 - What is a Budget & Cash Budget - Finance Strategists](Week%208/06%20-%20What%20is%20a%20Budget%20%26%20Cash%20Budget%20-%20Finance%20Strategists.md)
-  - [07 - Budgeting and business planning - Info Entrepreneurs](Week%208/07%20-%20Budgeting%20and%20business%20planning%20-%20Info%20Entrepreneurs.md)
-- [Week 9](Week%209/)
-  - [01 - KH - Week 9 - Supply Chain](Week%209/01%20-%20KH%20-%20Week%209%20-%20Supply%20Chain.md)
-  - [02 - What is supply chain - McKinsey & Company](Week%209/02%20-%20What%20is%20supply%20chain%20-%20McKinsey%20%26%20Company.md)
-- [Week 10](Week%2010)
-  - [01 - KH - Week 10 - Competition - SWOT - Porter’s 5 Forces](Week%2010/01%20-%20KH%20-%20Week%2010%20-%20Competition%20-%20SWOT%20-%20Porter%E2%80%99s%205%20Forces.md)
-  - [02 - SWOT Analysis - CFI (Corporate Finance Institute)](Week%2010/02%20-%20SWOT%20Analysis%20-%20CFI%20(Corporate%20Finance%20Institute).md)
-  - [03 - Porter’s Five Forces Analysis - Harvard Business School - Institute for Strategy and Competitiveness](Week%2010/03%20-%20Porter%E2%80%99s%20Five%20Forces%20Analysis%20-%20Harvard%20Business%20School%20-%20Institute%20for%20Strategy%20and%20Competitiveness.md)
-  - [04 - PESTLE Analysis – Charity Commission for England and Wales](Week%2010/04%20-%20PESTLE%20Analysis%20%E2%80%93%20Charity%20Commission%20for%20England%20and%20Wales.md)
+## 📂 Contents
 
-## How to Use
-Navigate to the desired week's folder and open the corresponding Markdown file to view the summary.
+<details>
+<summary><strong>📖 Week 1 – Business Basics & Needs</strong></summary>
+
+- [01 - KH - Week 1 - Types of Business Organisations](Week%201/01%20-%20KH%20-%20Week%201%20-%20Types%20of%20Business%20Organisations.md)  
+- [02 - Maslow’s Hierarchy of Needs](Week%201/02%20-%20Maslow’s%20Hierarchy%20of%20Needs.md)  
+- [03 - Differences Between Capital Resources, Human Resources & Natural Resources](Week%201/03%20-%20Differences%20Between%20Capital%20Resources%2C%20Human%20Resources%20%26%20Natural%20Resources.md)
+
+</details>
+
+<details>
+<summary><strong>📣 Week 2 – Marketing & Branding</strong></summary>
+
+- [01 - KH - Week 2 - Marketing](Week%202/01%20-%20KH%20-%20Week%202%20-%20Marketing.md)  
+- [02 - How to find your unique selling proposition - BDC](Week%202/02%20-%20How%20to%20find%20your%20unique%20selling%20proposition%20-%20BDC%20(Business%20Development%20Bank%20of%20Canada).md)  
+- [03 - What is Branding - The Branding Journal](Week%202/03%20-%20What%20is%20Branding%20-%20The%20Branding%20Journal.md)  
+- [04 - A brief summary of marketing and how it works - CIM](Week%202/04%20-%20A%20brief%20summary%20of%20marketing%20and%20how%20it%20works%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)  
+- [05 - What are the benefits of market segmentation - The British Library](Week%202/05%20-%20What%20are%20the%20benefits%20of%20market%20segmentation%20-%20The%20British%20Library.md)  
+- [06 - Market Segmentation and Targeting - CFI](Week%202/06%20-%20Market%20Segmentation%20and%20Targeting%20-%20CFI%20(Chartered%20Finance%20Institute).md)
+
+</details>
+
+<details>
+<summary><strong>📦 Week 3 – Marketing Mix & Research</strong></summary>
+
+- [01 - KH - Week 3 - Marketing Mix](Week%203/01%20-%20KH%20-%20Week%203%20-%20Marketing%20Mix.md)  
+- [02 - Why is market research important - The British Library](Week%203/02%20-%20Why%20is%20market%20research%20important%20for%20new%20business%20ideas%20-%20The%20British%20Library.md)  
+- [03 - 4 P’s of Marketing - CFI](Week%203/03%20-%204%20P’s%20of%20Marketing%20-%20CFI%20(Chartered%20Finance%20Institute).md)  
+- [04 - The 7Ps of marketing - CIM](Week%203/04%20-%20The%207Ps%20of%20marketing%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md)  
+- [05 - Rejuvenating the Marketing Mix - Harvard Business Review](Week%203/05%20-%20Rejuvenating%20the%20Marketing%20Mix%20-%20Harvard%20Business%20Review.md)
+
+</details>
+
+<details>
+<summary><strong>🎤 Week 4 – Presentation Skills</strong></summary>
+
+- [01 - KH - Week 4 - Presentation Skills](Week%204/01%20-%20KH%20-%20Week%204%20-%20Presentation%20Skills.md)  
+- [02 - Presentation - Academic Skills Kit - Newcastle University](Week%204/02%20-%20Presentation%20-%20Academic%20Skills%20Kit%20-%20Newcastle%20University.md)  
+- [03 - Presentations - Academic Skills - University of Leeds](Week%204/03%20-%20Presentations%20-%20Academic%20Skills%20-%20University%20of%20Leeds.md)
+
+</details>
+
+<details>
+<summary><strong>💰 Week 5 – Finance & Funding</strong></summary>
+
+- [01 - KH - Week 5 - Sources of Finance - Financial Statements](Week%205/01%20-%20KH%20-%20Week%205%20-%20Sources%20of%20Finance%20-%20Financial%20Statements.md)  
+- [02 - Selecting sources of finance - ACCA](Week%205/02%20-%20Selecting%20sources%20of%20finance%20for%20business%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)  
+- [03 - Choose your funding type - Australian Gov](Week%205/03%20-%20Choose%20your%20funding%20type%20-%20Australian%20Government%20-%20Business.md)  
+- [04 - Comparing sources of finance - Capify](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md)  
+- [05 - Finance vs Accounting - CFI](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md)
+
+</details>
+
+<details>
+<summary><strong>🎯 Week 7 – Business Strategy & Mission</strong></summary>
+
+- [01 - KH - Week 7 - Analysing the Environment](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md)  
+- [02 - Purpose, Mission, and Vision - Bain](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md)  
+- [03 - What is a Mission Statement - CFI](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md)
+
+</details>
+
+<details>
+<summary><strong>📊 Week 8 – Budgeting & Costs</strong></summary>
+
+- [01 - KH - Week 8 - Budgeting](Week%208/01%20-%20KH%20-%20Week%208%20-%20Budgeting.md)  
+- [02 - Labour and material variances - AAT](Week%208/02%20-%20Labour%20and%20material%20variances%20-%20AAT%20(Association%20of%20Accounting%20Technicians).md)  
+- [03 - Rolling Budgets - ACCA](Week%208/03%20-%20Rolling%20Budgets%20-%20ACCA%20(Association%20of%20Chartered%20Certified%20Accountants).md)  
+- [04 - Why cash flow is more important than profit - Barclays](Week%208/04%20-%20Why%20cash%20flow%20is%20more%20important%20than%20profit%20-%20Barclays%20Bank.md)  
+- [05 - Fixed and Variable Costs - CFI](Week%208/05%20-%20Fixed%20and%20Variable%20Costs%20-%20CFI%20(Chartered%20Finance%20Institute).md)  
+- [06 - What is a Budget & Cash Budget - Finance Strategists](Week%208/06%20-%20What%20is%20a%20Budget%20%26%20Cash%20Budget%20-%20Finance%20Strategists.md)  
+- [07 - Budgeting and business planning - Info Entrepreneurs](Week%208/07%20-%20Budgeting%20and%20business%20planning%20-%20Info%20Entrepreneurs.md)
+
+</details>
+
+<details>
+<summary><strong>🔄 Week 9 – Supply Chain</strong></summary>
+
+- [01 - KH - Week 9 - Supply Chain](Week%209/01%20-%20KH%20-%20Week%209%20-%20Supply%20Chain.md)  
+- [02 - What is supply chain - McKinsey & Company](Week%209/02%20-%20What%20is%20supply%20chain%20-%20McKinsey%20%26%20Company.md)
+
+</details>
+
+<details>
+<summary><strong>🛡 Week 10 – Strategy Frameworks</strong></summary>
+
+- [01 - KH - Week 10 - Competition - SWOT - Porter’s 5 Forces](Week%2010/01%20-%20KH%20-%20Week%2010%20-%20Competition%20-%20SWOT%20-%20Porter%E2%80%99s%205%20Forces.md)  
+- [02 - SWOT Analysis - CFI](Week%2010/02%20-%20SWOT%20Analysis%20-%20CFI%20(Corporate%20Finance%20Institute).md)  
+- [03 - Porter’s Five Forces - Harvard Business School](Week%2010/03%20-%20Porter%E2%80%99s%20Five%20Forces%20Analysis%20-%20Harvard%20Business%20School%20-%20Institute%20for%20Strategy%20and%20Competitiveness.md)  
+- [04 - PESTLE Analysis – Charity Commission](Week%2010/04%20-%20PESTLE%20Analysis%20%E2%80%93%20Charity%20Commission%20for%20England%20and%20Wales.md)
+
+</details>
+
+---
+
+## 🧭 How to Use
+
+Navigate to the relevant week's section above, expand it, and click the desired Markdown file to view the summary.
