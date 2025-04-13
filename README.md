@@ -1,7 +1,7 @@
 # 2024.25 Business Essentials: Introduction
 
-![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen)
-![Progress](https://img.shields.io/badge/Complete-100%25-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Progress](https://img.shields.io/badge/No%20New%20Additions%20Are%20Made-8A2BE2)
 
 This repository contains structured summaries of my weekly university classes, highlighting key points only.
 
@@ -90,10 +90,3 @@ This repository contains structured summaries of my weekly university classes, h
 - **Professional**: ACCA, CIM, CFI, AAT
 - **Government**: BDC, Australian Government, UK Charity Commission
 - **Corporate**: Barclays, Capify, McKinsey, Bain & Company
-
----
-
-## Usage Guide
-1. Clone repository:
-```bash
-git clone https://github.com/mishka/BusinessEssentialsSummary.git
