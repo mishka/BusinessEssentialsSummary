@@ -35,13 +35,6 @@ This repository contains structured summaries of my weekly university classes, h
 | [04 - Extended 7Ps](Week%203/04%20-%20The%207Ps%20of%20marketing%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md) | Service marketing expansion |
 | [05 - Mix Optimization](Week%203/05%20-%20Rejuvenating%20the%20Marketing%20Mix%20-%20Harvard%20Business%20Review.md) | HBR case studies |
 
-### [Week 4 - Presentation Skills](Week%204)
-| File | Description |
-|------|-------------|
-| [01 - Core Techniques](Week%204/01%20-%20KH%20-%20Week%204%20-%20Presentation%20Skills.md) | University guidelines |
-| [02 - Academic Approach](Week%204/02%20-%20Presentation%20-%20Academic%20Skills%20Kit%20-%20Newcastle%20University.md) | Research presentation methods |
-| [03 - Professional Delivery](Week%204/03%20-%20Presentations%20-%20Academic%20Skills%20-%20University%20of%20Leeds.md) | Business communication strategies |
-
 ### [Week 5 - Financial Essentials](Week%205)
 | File | Description |
 |------|-------------|
