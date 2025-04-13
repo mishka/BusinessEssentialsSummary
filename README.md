@@ -51,14 +51,14 @@ This repository contains structured summaries of my weekly university classes, h
 | [04 - SME Financing](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md) | Small business comparisons |
 | [05 - Finance vs Accounting](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md) | Discipline differentiation |
 
-### Week 7 - Strategic Analysis
+### Week 6 - Strategic Analysis
 | File | Description |
 |------|-------------|
 | [01 - Environmental Analysis](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md) | Goal setting frameworks |
 | [02 - Strategic Statements](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md) | Corporate strategy development |
 | [03 - Mission Essentials](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md) | Financial alignment strategies |
 
-### Week 8 - Budgeting
+### Week 7 - Budgeting
 | File | Description |
 |------|-------------|
 | [01 - Budgeting Basics](Week%208/01%20-%20KH%20-%20Week%208%20-%20Budgeting.md) | Core principles |
@@ -69,13 +69,13 @@ This repository contains structured summaries of my weekly university classes, h
 | [06 - Budget Types](Week%208/06%20-%20What%20is%20a%20Budget%20%26%20Cash%20Budget%20-%20Finance%20Strategists.md) | Practical applications |
 | [07 - Business Planning](Week%208/07%20-%20Budgeting%20and%20business%20planning%20-%20Info%20Entrepreneurs.md) | Implementation guides |
 
-### Week 9 - Supply Chain
+### Week 8 - Supply Chain
 | File | Description |
 |------|-------------|
 | [01 - SCM Fundamentals](Week%209/01%20-%20KH%20-%20Week%209%20-%20Supply%20Chain.md) | Core concepts |
 | [02 - Industry Insights](Week%209/02%20-%20What%20is%20supply%20chain%20-%20McKinsey%20%26%20Company.md) | McKinsey perspective |
 
-### Week 10 - Competitive Analysis
+### Week 9 - Competitive Analysis
 | File | Description |
 |------|-------------|
 | [01 - Analysis Tools](Week%2010/01%20-%20KH%20-%20Week%2010%20-%20Competition%20-%20SWOT%20-%20Porter%E2%80%99s%205%20Forces.md) | Framework comparison |
