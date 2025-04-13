@@ -9,14 +9,14 @@ This repository contains structured summaries of my weekly university classes, h
 
 ## Weekly Breakdown
 
-### Week 1 - Business Foundations
+### [Week 1 - Business Foundations](Week%201)
 | File | Description |
 |------|-------------|
 | [01 - Types of Business Organisations](Week%201/01%20-%20KH%20-%20Week%201%20-%20Types%20of%20Business%20Organisations.md) | Legal structures and ownership types |
 | [02 - Maslow’s Hierarchy of Needs](Week%201/02%20-%20Maslow’s%20Hierarchy%20of%20Needs.md) | Psychological motivation framework |
 | [03 - Resource Classification](Week%201/03%20-%20Differences%20Between%20Capital%20Resources%2C%20Human%20Resources%20%26%20Natural%20Resources.md) | Production factor analysis |
 
-### Week 2 - Marketing Fundamentals
+### [Week 2 - Marketing Fundamentals](Week%202)
 | File | Description |
 |------|-------------|
 | [01 - Marketing Basics](Week%202/01%20-%20KH%20-%20Week%202%20-%20Marketing.md) | Core marketing principles |
@@ -26,7 +26,7 @@ This repository contains structured summaries of my weekly university classes, h
 | [05 - Market Segmentation](Week%202/05%20-%20What%20are%20the%20benefits%20of%20market%20segmentation%20-%20The%20British%20Library.md) | Target audience strategies |
 | [06 - Segmentation Models](Week%202/06%20-%20Market%20Segmentation%20and%20Targeting%20-%20CFI%20(Chartered%20Finance%20Institute).md) | Financial implementation approaches |
 
-### Week 3 - Marketing Mix
+### [Week 3 - Marketing Mix](Week%203)
 | File | Description |
 |------|-------------|
 | [01 - Marketing Mix Basics](Week%203/01%20-%20KH%20-%20Week%203%20-%20Marketing%20Mix.md) | 4Ps framework overview |
@@ -35,14 +35,14 @@ This repository contains structured summaries of my weekly university classes, h
 | [04 - Extended 7Ps](Week%203/04%20-%20The%207Ps%20of%20marketing%20-%20CIM%20(Chartered%20Institute%20of%20Marketing).md) | Service marketing expansion |
 | [05 - Mix Optimization](Week%203/05%20-%20Rejuvenating%20the%20Marketing%20Mix%20-%20Harvard%20Business%20Review.md) | HBR case studies |
 
-### Week 4 - Presentation Skills
+### [Week 4 - Presentation Skills](Week%204)
 | File | Description |
 |------|-------------|
 | [01 - Core Techniques](Week%204/01%20-%20KH%20-%20Week%204%20-%20Presentation%20Skills.md) | University guidelines |
 | [02 - Academic Approach](Week%204/02%20-%20Presentation%20-%20Academic%20Skills%20Kit%20-%20Newcastle%20University.md) | Research presentation methods |
 | [03 - Professional Delivery](Week%204/03%20-%20Presentations%20-%20Academic%20Skills%20-%20University%20of%20Leeds.md) | Business communication strategies |
 
-### Week 5 - Financial Essentials
+### [Week 5 - Financial Essentials](Week%205)
 | File | Description |
 |------|-------------|
 | [01 - Funding Sources](Week%205/01%20-%20KH%20-%20Week%205%20-%20Sources%20of%20Finance%20-%20Financial%20Statements.md) | Capital acquisition methods |
@@ -51,14 +51,14 @@ This repository contains structured summaries of my weekly university classes, h
 | [04 - SME Financing](Week%205/04%20-%20Comparing%20sources%20of%20finance%20for%20a%20small%20business%20-%20Capify.md) | Small business comparisons |
 | [05 - Finance vs Accounting](Week%205/05%20-%20Finance%20vs%20Accounting%20-%20CFI%20(Corporate%20Finance%20Institute).md) | Discipline differentiation |
 
-### Week 6 - Strategic Analysis
+### [Week 6 - Strategic Analysis](Week%206)
 | File | Description |
 |------|-------------|
 | [01 - Environmental Analysis](Week%207/01%20-%20KH%20-%20Week%207%20-%20Analysing%20the%20Environment%20-%20aims%20and%20objectives.md) | Goal setting frameworks |
 | [02 - Strategic Statements](Week%207/02%20-%20Purpose%2C%20Mission%2C%20and%20Vision%20Statements%20-%20Bain%20and%20Company.md) | Corporate strategy development |
 | [03 - Mission Essentials](Week%207/03%20-%20What%20is%20a%20Mission%20Statement%20-%20CFI%20(Corporate%20Finance%20Institute).md) | Financial alignment strategies |
 
-### Week 7 - Budgeting
+### [Week 7 - Budgeting](Week%207)
 | File | Description |
 |------|-------------|
 | [01 - Budgeting Basics](Week%208/01%20-%20KH%20-%20Week%208%20-%20Budgeting.md) | Core principles |
@@ -69,13 +69,13 @@ This repository contains structured summaries of my weekly university classes, h
 | [06 - Budget Types](Week%208/06%20-%20What%20is%20a%20Budget%20%26%20Cash%20Budget%20-%20Finance%20Strategists.md) | Practical applications |
 | [07 - Business Planning](Week%208/07%20-%20Budgeting%20and%20business%20planning%20-%20Info%20Entrepreneurs.md) | Implementation guides |
 
-### Week 8 - Supply Chain
+### [Week 8 - Supply Chain](Week%208)
 | File | Description |
 |------|-------------|
 | [01 - SCM Fundamentals](Week%209/01%20-%20KH%20-%20Week%209%20-%20Supply%20Chain.md) | Core concepts |
 | [02 - Industry Insights](Week%209/02%20-%20What%20is%20supply%20chain%20-%20McKinsey%20%26%20Company.md) | McKinsey perspective |
 
-### Week 9 - Competitive Analysis
+### [Week 9 - Competitive Analysis](Week%209)
 | File | Description |
 |------|-------------|
 | [01 - Analysis Tools](Week%2010/01%20-%20KH%20-%20Week%2010%20-%20Competition%20-%20SWOT%20-%20Porter%E2%80%99s%205%20Forces.md) | Framework comparison |
